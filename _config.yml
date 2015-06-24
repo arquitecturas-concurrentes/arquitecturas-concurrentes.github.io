@@ -1,7 +1,6 @@
 # Site settings
 title: Arquitecturas Concurrentes
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
 url: "http://yourdomain.com"
