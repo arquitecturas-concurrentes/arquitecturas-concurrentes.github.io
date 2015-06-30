@@ -3,8 +3,8 @@ title: Arquitecturas Concurrentes
 header-img: img/home-bg.jpg
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://frp-utn.github.io/"
-github_username: "frp-utn"
+url: "http://arquitecturas-concurrentes.github.io/"
+github_username: "arquitecturas-concurrentes"
 
 # Build settings
 markdown: kramdown
