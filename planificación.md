@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Programa
-description: "Programa de la materia"
-permalink: /programa/
+title: Planificación
+description: "Planificación"
+permalink: /planificación/
 ---
 
 
