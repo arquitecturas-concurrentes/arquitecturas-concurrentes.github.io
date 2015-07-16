@@ -48,6 +48,10 @@ permalink: /bibliografia/
 
 - [The Missing Guide To Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
+## Event Loop
+
+- [The JavaScript Event Loop: Explained](http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained)
+
 ##Distribución
 
 - Raft
