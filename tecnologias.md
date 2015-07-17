@@ -30,6 +30,7 @@ Ahora sí, que vamos a usar:
   * [Elixir](http://elixir-lang.org/). Lo queremos para entender:
     * actores. Podriiiiiiamos haber usado [Erlang](http://www.erlang.org/) (el papá de toda la movida) pero es un poco áspero, así que vamos por Elixir que es algo así como el Erlang de los 2010: bonito, sencillito, no habla mal de tu mamá. ¿Por qué no Akka y Scala? En clase te contamos.
     * STM. Una forma interesante de manejar la memoria de forma concurrente. La verdad es que nos hubiera encantado ver STM con Clojure (que tiene una de las mejores implementaciones), pero consideramos que meternos con Lisp por unas pocas horas de clase era demasiado. Quizás en otro cuatrimestre. 
-  * Haskell: ninguna materia de concurrencia que se precie podría hacer caso omiso a las bondades del paradigma funcional. "Te acuerdas de Haskell? Volvió, y en forma de móndas!". No bueno, en serio, lo queremos para entender algunos patrones de control de flujo que están presentes a lo largo de todas las tecnologías e ideas que vimos antes. 
+  * **Haskell**: ninguna materia de concurrencia que se precie podría hacer caso omiso a las bondades del paradigma funcional. "Te acuerdas de Haskell? Volvió, y en forma de móndas!". No bueno, en serio, lo queremos para entender algunos patrones que están presentes a lo largo de todas las tecnologías e ideas que vimos antes. 
    
-  
+
+Ah, y para que no digan que les mentimos, la primera clase vamos a ver dos líneas de Ruby, para poder comparar con la concurrencia tradicional y después olvidarlas. ¿¿¿O querían ver C???
