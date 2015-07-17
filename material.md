@@ -28,6 +28,8 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - [Patrones funcionales](https://docs.google.com/document/d/13XFlFnOaOtMq7I_r4xRUqLP-sasnEJA0-zSEh7utMQ0)
 
+<br>
+<br>
 
 #Bibliografía
 
