@@ -6,7 +6,7 @@ permalink: /apuntes/
 
 ¡Hola! Acá vas a encontrar los apuntes que estamos construyendo. Su construcción es iterativa e incremental, así que es probable que encuentres errores de redacción o secciones incompletas. La idea es que vos también nos ayudes, así que si encontrás algún error, [¡comunicate con nosotros!](/about).
 
-No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas materias de las que <del>robar</del> tomar ideas, así que tenemos que construir todo desde cero :sunglasses:
+No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas materias ni aquí ni allá de las que <del>robar</del> tomar ideas, así que tenemos que construir todo desde cero :sunglasses:
 
 ###Generalidades
 
