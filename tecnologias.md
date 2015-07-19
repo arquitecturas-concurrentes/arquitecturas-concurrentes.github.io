@@ -15,6 +15,7 @@ En la materia queremos contarte conceptos de arquitectura e implementación de u
 Así que **no vamos a matarte** con 18,5 lenguajes, 40 frameworks, 39 bibliotecas, 71 test runners y 3,141516 tipos de cerveza (¡ufa!). Sino que vamos a elegir las 3 o como mucho 4 tecnologías más representativas de lo que queremos explicar. 
 
 ## You know nothing, Jon Snow
+![](/img/iknownothing.jpg)
 
 **Asumimos que vos no sabés nada ni de las tecnologías que vamos a ver, ni de los conceptos**, y de hecho, ni siquiera de concurrencia (mas allá de un vago recuerdo de esos días en que eras joven y cursabas operativos). Así que tranquila/o, vamos a explicar todo lo que vamos a usar (al menos, a un nivel razonable, algunas cosas para leer algún día te mandaremos, esperamos que no te enojes :stuck_out_tongue:)
 
