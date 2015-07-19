@@ -28,8 +28,6 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - [Patrones funcionales](https://docs.google.com/document/d/13XFlFnOaOtMq7I_r4xRUqLP-sasnEJA0-zSEh7utMQ0)
 
-<br>
-
 #Bibliografía
 
 ##General
@@ -70,6 +68,7 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - [Value, Identity and State (Presentación)](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey#anch48593)
 - [Values and Change - Clojure's approach to Identity and State.](http://clojure.org/state)
+- [Haskell's STM](http://research.microsoft.com/en-us/um/people/simonpj/papers/stm/beautiful.pdf)
 
 ##Streams & Futures
 
