@@ -38,11 +38,12 @@ Lo queremos para entender:
 
 > Via [Node.js](https://nodejs.org), alguito de Express y algunas bibliotecas, como [Bluebird](https://github.com/petkaantonov/bluebird) y [RxJS](https://github.com/Reactive-Extensions/RxJS). 
 
-Vamos a usarlo para entender
-   * Event Loops/Reactors 
-   * CPS
-   * Promises
-   * y las extensiones reactivas, de las que todos hablan, algunos usan, pocos entienden, y ninguno sabe por qué. O casi.  
+Vamos a usarlo para entender:
+
+  * Event Loops/Reactors 
+  * CPS
+  * Promises
+  * y las extensiones reactivas, de las que todos hablan, algunos usan, pocos entienden, y ninguno sabe por qué. O casi.  
   
 ###  **Haskell**
 
