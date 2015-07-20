@@ -10,9 +10,9 @@ Si estuviste leyendo las otras páginas habrás visto que mencionamos bastantes 
 
 ## Más conceptos, menos circo
 
-En la materia queremos contarte conceptos de arquitectura e implementación de una aplicación concurrente (es decir, cualquier aplicación que sea usada por mas una persona) que nos parecen novedosos y útiles hoy en dia. Y de paso, presentarte algunas tecnologías que no son de laboratorio, sino que se usan en la industria. 
+En la materia queremos contarte conceptos de arquitectura e implementación de una aplicación concurrente (es decir, cualquier aplicación que sea usada por más una persona y/o tenga más de un proceso) que nos parecen novedosos y útiles hoy en dia. Y de paso, presentarte algunas tecnologías que no son de laboratorio, sino que se usan en la industria. 
 
-Así que **no vamos a matarte** con 18,5 lenguajes, 40 frameworks, 39 bibliotecas, 71 test runners y 3,141516 tipos de cerveza (¡ufa!). Sino que vamos a elegir las 3 o como mucho 4 tecnologías más representativas de lo que queremos explicar. 
+Así que **no vamos a matarte** con 18,5 lenguajes, 40 frameworks, 39 bibliotecas, 71 test runners y 3,141516 tipos de cerveza (¡ufa!). Sino que vamos a elegir las 3 o como mucho 4 tecnologías más representativas de lo que queremos explicar, usando aquellas de uso industrial cuando sea posible.  
 
 ## You know nothing, Jon Snow
 ![](/img/iknownothing.jpg)
