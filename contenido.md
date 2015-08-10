@@ -20,3 +20,4 @@ permalink: /contenido/
 
 * [Clase 1 - Presentación. Nociones Fundamentales. Problemas comunes. Locking](https://docs.google.com/document/d/1DqQ04nYlMyvwdjfHBPSti5N3YzPd_Xmmj_0utubuaeE/edit#heading=h.3plpja1w8uaz)
 * [Clase 2 - CPS, EventLoop, NodeJS](https://docs.google.com/document/d/1qN_HSIvjV5L78NxiEuT2EqHXKNVuQv3SKEbKt8guOnI/edit#heading=h.r8cpo7leyq8g)
+* [Clase 3 - TP "Ayudantes"](https://docs.google.com/document/d/1j7agLiiWzoOAY3cmF2uevn8fvyrG0oDm0SzBkQru6A4/edit)
