@@ -25,7 +25,7 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 ###Generalidades
 
-- [Concurrencia y Paralelismo](https://docs.google.com/document/d/1F8zdJpJlNJHBVq9PEoqAT_CFnTB6blXYhNkXpS0GXiE)
+- [Nociones Fundamentales](https://docs.google.com/document/d/1F8zdJpJlNJHBVq9PEoqAT_CFnTB6blXYhNkXpS0GXiE)
 
 ###Programación Reactiva
 
