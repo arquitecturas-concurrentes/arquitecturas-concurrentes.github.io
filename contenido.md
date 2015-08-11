@@ -22,3 +22,7 @@ permalink: /contenido/
 * [Clase 2 - CPS, EventLoop, NodeJS](https://docs.google.com/document/d/1qN_HSIvjV5L78NxiEuT2EqHXKNVuQv3SKEbKt8guOnI/edit#heading=h.r8cpo7leyq8g)
 * [Clase 3 - TP "Ayudantes"](https://docs.google.com/document/d/1j7agLiiWzoOAY3cmF2uevn8fvyrG0oDm0SzBkQru6A4/edit)
 * [Clase 4 - Promises & RX](https://docs.google.com/document/d/1YRZh9sKo97oexohtdSXfY-BUK_Ya05WUeZUfSlO20LI/edit)
+
+## Más Ejemplos
+
+Todos los scripts de clase van acompañados de los links a los repositorios de código. De todas formas, acá encontarás más ejemplos  [https://github.com/frp-utn](https://github.com/arquitecturas-concurrentes) (repo canónico)
