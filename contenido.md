@@ -34,4 +34,4 @@ permalink: /contenido/
 
 ## Más Ejemplos
 
-Todos los scripts de clase van acompañados de los links a los repositorios de código. De todas formas, acá encontarás más ejemplos  [https://github.com/frp-utn](https://github.com/arquitecturas-concurrentes) (repo canónico)
+Todos los scripts de clase van acompañados de los links a los repositorios de código. De todas formas, acá encontarás más ejemplos  [https://github.com/arquitecturas-concurrentes](https://github.com/arquitecturas-concurrentes) (repo canónico)
