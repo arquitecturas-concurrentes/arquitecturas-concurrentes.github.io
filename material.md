@@ -16,6 +16,12 @@ Esta es la bibliografía oficial de la materia:
 - [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/)
 - Beatiful Architecture
 
+## Blog de Arquitecturas Concurrentes
+
+Acá vamos a ir subiendo los resúmenes de clase en formato de blog:
+
+* [Episodio 1: El diablo está en los detalles](https://medium.com/@flbulgarelli/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
+
 
 ## Apuntes 
 
