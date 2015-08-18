@@ -21,7 +21,7 @@ Esta es la bibliografía oficial de la materia:
 Acá vamos a ir subiendo los resúmenes de clase en formato de blog:
 
 * [Episodio 1: El diablo está en los detalles](https://medium.com/@flbulgarelli/arquitecturas-concurrentes-episodio-1-el-diablo-est%C3%A1-en-los-detalles-692766ac669b)
-
+* [Episodio 2: Algo llamado Concurrencia](https://medium.com/@flbulgarelli/arquitecturas-concurrentes-episodio-2-algo-llamado-concurrencia-ab4994870eb1)
 
 ## Apuntes 
 
