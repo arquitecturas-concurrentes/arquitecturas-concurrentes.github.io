@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guia de Node.js
+description: Guia de Node.js
 permalink: /guias/node/
 ---
 
