@@ -187,7 +187,7 @@ curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.
 brew install node
 {% endhighlight %}
 
-#Buildeando del último release
+#Buildeando a partir de los fuentes
 
 Si bien no es necesario para la materia tener la última versión de Node.js aparte de la que podríamos
 tener de un binario de nuestra disto linux, aca esta el script para instalarlo de los fuentes
@@ -284,6 +284,9 @@ Para más referencias ir a la página de [Express.js](http://expressjs.com/start
 Un ejemplo base en Node.js y Express esta en este [repo](https://github.com/arquitecturas-concurrentes/iasc-expressstub-nodejs).
 
 
+#Extra
+
+[Como instalar Node.js con docker](https://programmaticponderings.wordpress.com/2014/11/17/install-the-latest-versions-of-node-js-and-npm-into-a-docker-ubuntu-container-with-or-without-the-need-for-root-access-easily-update-both-applications-to-the-latest-versions/) 
 
 
 
