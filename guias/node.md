@@ -79,10 +79,10 @@ npm install -g npm
 
 # Instalando Mocha
 
-Mocha es un framework de test común en JS. Si bien debería ser una dependencia de tu proyecto, a veces es cómo tenerlo instalado globalmente para hacer pruebas rápidas. 
+Mocha es un framework de test común en JS. Si bien debería ser una dependencia de tu proyecto, a veces es cómodo tenerlo instalado globalmente para hacer pruebas rápidas. 
 
 {% highlight bash %}
-npm intall -g mocha
+npm install -g mocha
 {% endhighlight %}
 
 # Como iniciar un proyecto Node.js + Express
