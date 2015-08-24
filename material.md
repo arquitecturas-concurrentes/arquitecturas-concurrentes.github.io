@@ -25,7 +25,8 @@ Acá vamos a ir subiendo los resúmenes de clase en formato de blog:
 
 ## Guías
 
-- [Guia de instalación y creación de un proyecto Node.js](/guias/node)
+- [Guía de instalación y creación de un proyecto Node.js](/guias/node)
+- [Guía de instalación de Ruby + Rubymine en Linux](https://youtu.be/OyLoonEjfDY)
 
 ## Apuntes 
 
