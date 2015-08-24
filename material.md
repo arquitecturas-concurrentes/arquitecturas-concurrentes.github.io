@@ -23,6 +23,10 @@ Acá vamos a ir subiendo los resúmenes de clase en formato de blog:
 * [Episodio 1: El diablo está en los detalles](https://goo.gl/qEHWjX)
 * [Episodio 2: Algo llamado Concurrencia](https://goo.gl/oOelel)
 
+## Guías
+
+- [Guia de instalación y creación de un proyecto Node.js](/guias/node)
+
 ## Apuntes 
 
 Estos son los apuntes que estamos elaborando. Su construcción es iterativa e incremental, así que es probable que encuentres errores de redacción o secciones incompletas. La idea es que vos también nos ayudes, así que si encontrás algún error, [¡comunicate con nosotros!](/about).
