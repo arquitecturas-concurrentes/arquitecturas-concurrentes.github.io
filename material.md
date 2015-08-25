@@ -23,10 +23,11 @@ Acá vamos a ir subiendo los resúmenes de clase en formato de blog:
 * [Episodio 1: El diablo está en los detalles](https://goo.gl/qEHWjX)
 * [Episodio 2: Algo llamado Concurrencia](https://goo.gl/oOelel)
 
-## Guías
+## Guias
 
 - [Guía de instalación y creación de un proyecto Node.js](/guias/node)
 - [Guía de instalación de Ruby + Rubymine en Linux](https://youtu.be/OyLoonEjfDY)
+- [Guía de instalación de Ruby con RBEnv](http://uqbar-wiki.org/index.php?title=Gu%C3%ADa_de_Instalaci%C3%B3n_de_Ruby#2._Instalar_RBENV)
 
 ## Apuntes 
 
