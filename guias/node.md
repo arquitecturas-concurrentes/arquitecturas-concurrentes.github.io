@@ -36,6 +36,12 @@ Luego, instalar normalmente con apt-get
 sudo apt-get install --yes nodejs npm build-essential
 {% endhighlight %}
 
+En caso de que instalen por nodesource.com node y despues cuando quieran hacer apt-get install npm, les falle, lo que pueden hacer es instalar npm por source haciendo
+
+{% highlight bash %}
+curl -L https://www.npmjs.org/install.sh| sh
+{% endhighlight %}
+
 ### Otras distribuciones
 
 Si tenés Gentoo, Arch, RHEL, Suse... asumimos que sos grande y podés investigar vos mismo como instalarlo :P. 
