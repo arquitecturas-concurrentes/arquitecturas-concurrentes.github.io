@@ -39,6 +39,10 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - [Nociones Fundamentales](https://docs.google.com/document/d/1F8zdJpJlNJHBVq9PEoqAT_CFnTB6blXYhNkXpS0GXiE)
 
+###Javascript
+
+- [Rápido tutorial de Javascript](https://medium.com/@flbulgarelli/javascript-al-grano-4415991a8271)
+
 ###Programación Reactiva
 
 - [¿Qué es programación reactiva?](https://docs.google.com/document/d/1hD3jVG211KiKaM-fBlzRov3naGwf12oSjR2dg8JM51w)
