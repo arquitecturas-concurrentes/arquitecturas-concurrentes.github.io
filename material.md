@@ -22,6 +22,7 @@ Acá vamos a ir subiendo los resúmenes de clase en formato de blog:
 
 * [Episodio 1: El diablo está en los detalles](https://goo.gl/qEHWjX)
 * [Episodio 2: Algo llamado Concurrencia](https://goo.gl/oOelel)
+* [Episodio 3: Eventos](https://goo.gl/uRvYPU)
 
 ## Guias
 
