@@ -16,3 +16,8 @@ Aquellos que estén actualmente cursando la materia deben suscribirse a al grupo
 hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se da en clase. Para suscribirse al grupo hay que solo hacer click en el siguiente link:
 
 <a href="https://groups.google.com/forum/#!forum/arquitecturas-concurrentes/join">Unirse al grupo</a>
+
+
+## Trabajos Prácticos
+
+[Práctica 1 - Ayudantes](https://docs.google.com/document/d/1j7agLiiWzoOAY3cmF2uevn8fvyrG0oDm0SzBkQru6A4/pub)

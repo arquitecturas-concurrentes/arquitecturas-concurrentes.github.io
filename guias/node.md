@@ -131,3 +131,8 @@ Con esto instalará localmente las dependencias de nuestro proyecto
 Para más referencias ir a la página de [Express.js](http://expressjs.com/starter/installing.html)
 
 Un ejemplo base en Node.js y Express esta en este [repo](https://github.com/arquitecturas-concurrentes/iasc-expressstub-nodejs).
+
+#Extra
+
+[Como instalar Node.js con docker](https://programmaticponderings.wordpress.com/2014/11/17/install-the-latest-versions-of-node-js-and-npm-into-a-docker-ubuntu-container-with-or-without-the-need-for-root-access-easily-update-both-applications-to-the-latest-versions/) 
+
