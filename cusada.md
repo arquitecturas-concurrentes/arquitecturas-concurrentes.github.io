@@ -20,5 +20,5 @@ hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se 
 
 ## Trabajos Prácticos
 
-[Práctica 1 - Ayudantes Parte 1](https://docs.google.com/document/d/1j7agLiiWzoOAY3cmF2uevn8fvyrG0oDm0SzBkQru6A4/pub)
-[Práctica 2 - Ayudantes Parte 2](https://docs.google.com/document/d/1kykd-abdpoySCCRq28lo4p5FmSvorxFveFXcqAQU0ig/edit)
+* [Práctica 1 - Ayudantes Parte 1](https://docs.google.com/document/d/1j7agLiiWzoOAY3cmF2uevn8fvyrG0oDm0SzBkQru6A4/pub)
+* [Práctica 2 - Ayudantes Parte 2](https://docs.google.com/document/d/1kykd-abdpoySCCRq28lo4p5FmSvorxFveFXcqAQU0ig/edit)
