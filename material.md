@@ -8,6 +8,8 @@ permalink: /material/
 
 Acá vas encontrar los apuntes que estamos construyendo, la bilbliografía oficial, y artículos varios sobre los temas de la materia. 
 
+## Programa
+
 ## Bibliografía
 
 Esta es la bibliografía oficial de la materia: 
@@ -18,7 +20,7 @@ Esta es la bibliografía oficial de la materia:
 
 ## Blog de Arquitecturas Concurrentes
 
-Acá vamos a ir subiendo los resúmenes de clase en formato de blog:
+Acá vamos a ir subiendo los resúmenes (scripts) de clase en formato de blog:
 
 * [Episodio 1: El diablo está en los detalles](https://goo.gl/qEHWjX)
 * [Episodio 2: Algo llamado Concurrencia](https://goo.gl/oOelel)
@@ -29,6 +31,11 @@ Acá vamos a ir subiendo los resúmenes de clase en formato de blog:
 - [Guía de instalación y creación de un proyecto Node.js](/guias/node)
 - [Guía de instalación de Ruby + Rubymine en Linux](https://youtu.be/OyLoonEjfDY)
 - [Guía de instalación de Ruby con RBEnv](http://uqbar-wiki.org/index.php?title=Gu%C3%ADa_de_Instalaci%C3%B3n_de_Ruby#2._Instalar_RBENV)
+
+## Ejemplos
+
+Todos los scripts de clase van acompañados de los links a los repositorios de código. De todas formas, acá encontarás más ejemplos  [https://github.com/arquitecturas-concurrentes](https://github.com/arquitecturas-concurrentes) (repo canónico)
+
 
 ## Apuntes 
 
