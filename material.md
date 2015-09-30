@@ -31,6 +31,10 @@ Acá vamos a ir subiendo los resúmenes (scripts) de clase en formato de blog:
 * [Episodio 3: Eventos](https://goo.gl/uRvYPU)
 * Episodio 4: Event Loop
 * [Episodio 5: Sólo promesas](https://goo.gl/WmeqFz)
+* Episodio 6: Programación Reactiva, o algo así
+* Episodio 7: Estructuras Funcionales
+* [Episodio 8: Patrones funcionales](http://iasc.mumuki.io/guides/monadas)
+* Episodio 9: Memoria Transaccional
 
 ## Guias
 
