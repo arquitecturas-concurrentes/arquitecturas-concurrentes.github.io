@@ -1,7 +1,7 @@
 ---
 layout: page
-description: Guia de Node.js
-permalink: /guias/node/
+description: Guia de Elixir
+permalink: /guias/elixir/
 ---
 
 #Como instalar Elixir
