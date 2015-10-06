@@ -1,6 +1,10 @@
+---
+layout: page
+description: Guia de Node.js
+permalink: /guias/node/
+---
+
 #Como instalar Elixir
-
-
 
 ##Mac OS X
 
