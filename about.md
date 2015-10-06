@@ -5,6 +5,9 @@ permalink: /about/
 ---
 
 - Franco Bulgarelli
+
+Soy docente de Diseño de Sistemas y Paradigmas de Programación en UTN, y de Objetos 3 en UNQ. También trabajo como ingeniero de software freelance, y soy cofundador de [Mumuki Project](https://www.linkedin.com/company/mumuki-project). 
+
 ![Franco Bulgarelli](http://services.nexodyne.com/email/icon/4yiUCx15Ta5ZOFsT/qSVmr40%3D/R01haWw%3D/0/image.png)
 
 - Ernesto Bossi
