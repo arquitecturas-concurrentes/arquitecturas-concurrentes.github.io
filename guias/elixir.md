@@ -8,44 +8,110 @@ permalink: /guias/elixir/
 
 ##Mac OS X
 
-* Homebrew
+### Homebrew
+
+Update your homebrew to latest: 
+
+{% highlight bash %}
+brew update
+{% endhighlight %}
+
+
+Run 
+
+{% highlight bash %}
+brew install elixir
+{% endhighlight %}
   
-  Update your homebrew to latest: brew update
-  Run: brew install elixir
 
 ##Macports
-  Run: sudo port install elixir
+
+Run 
+
+{% highlight bash %}
+sudo port install elixir
+{% endhighlight %}
 
 ##Unix (and Unix-like)
 
-* Arch Linux (Community repo)
-    Run: pacman -S elixir
+###Arch Linux (Community repo)
 
-*openSUSE (and SLES 11 SP3+)
-  Add Erlang devel repo: zypper ar -f obs://devel:languages:erlang/ erlang
-  Run: zypper in elixir
+Run 
 
-* Gentoo
-  Run: emerge --ask dev-lang/elixir
+pacman -S elixir
 
-* Fedora 17 and newer
-  Run: yum install elixir
+###OpenSUSE (and SLES 11 SP3+)
+  
+Add Erlang devel repo: 
 
-* FreeBSD
-  From ports: cd /usr/ports/lang/elixir && make install clean
-  From pkg: pkg install elixir
+{% highlight bash %}
+zypper ar -f obs://devel:languages:erlang/ erlang
+{% endhighlight %}
 
-*Ubuntu 12.04 and 14.04 / Debian 7
+Run: 
 
-  Add Erlang Solutions repo: wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb && sudo dpkg -i erlang-solutions_1.0_all.deb
-  Run: sudo apt-get update
-  Run: sudo apt-get install elixir
+{% highlight bash %}
+zypper in elixir
+{% endhighlight %}
+
+###Gentoo
+
+Run: 
+
+{% highlight bash %}
+emerge --ask dev-lang/elixir
+{% endhighlight %}
+
+###Fedora 17 and newer
+  
+Run:
+
+{% highlight bash %}
+yum install elixir
+{% endhighlight %}
+
+###FreeBSD
+
+From ports: 
+
+{% highlight bash %}
+cd /usr/ports/lang/elixir && make install clean
+{% endhighlight %}
+
+From pkg: 
+
+{% highlight bash %}
+pkg install elixir
+{% endhighlight %}
+
+###Ubuntu 12.04 and 14.04 / Debian 7
+
+Add Erlang Solutions repo: 
+
+{% highlight bash %}
+wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb && sudo dpkg -i erlang-solutions_1.0_all.deb
+{% endhighlight %}
+
+Run: 
+
+{% highlight bash %}
+sudo apt-get update
+{% endhighlight %}
+  
+Run: 
+
+{% highlight bash %}
+sudo apt-get install elixir
+{% endhighlight %}
+
 
 ##Windows
 
-* Web installer
-  Download the installer
-  Click next, next, …, finish
+###Web installer
 
-* Chocolatey
-  cinst elixir
+Download the installer
+Click next, next, …, finish
+
+###Chocolatey
+  
+cinst elixir
