@@ -96,7 +96,7 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 - [http://www.erlang.org/doc/man/ets.html](http://www.erlang.org/doc/man/ets.html)
 - [Actores en Scala y Erlang](https://savanne.be/articles/concurrency-in-erlang-scala/)
 - [CheatSheet de Elixir](https://media.pragprog.com/titles/elixir/ElixirCheat.pdf)
-
+- [Riak y Erlang/OTP](http://aosabook.org/en/riak.html)
 
 ### Software Transactional Memory
 
