@@ -82,6 +82,8 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - [Message Systems In Programming, Callbacks, Events Pub Sub, Promises and Streams](http://jessewarden.com/2014/10/message-systems-in-programming-callbacks-events-pub-sub-promises-and-streams.html)
 - [Concurrencia vs Paralelismo, en Haskell](https://wiki.haskell.org/Parallelism)
+- [Actors, STM and Locks in Pictures](http://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html)
+
 
 ###Actores
 
@@ -112,7 +114,13 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - Deprecating The Observer Pattern
 - Functional Reactive Programming from First Principles
-- Functional Reactive Programming, Continued
+- Functional Reactive Programming, Continuedhttp://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+
+
+## Programación Funcional
+
+* [Functors, Aplicatives and Monads](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+
 
 ### Event Loop
 
