@@ -68,13 +68,7 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 ###Actores
 
 - [Diccionario Erlang/OTP](https://docs.google.com/document/d/1QG6Aq9AnSuHH5L3r0F063LgYAAP8ts5wSTEmXd8d3r0)
-- [Mitos y verdades sobre el modelo de actores](https://docs.google.com/document/d/1-HwUOZEO7zr3qhQN70eRmQ-eYRsrpzxXx0pHOtNyZMg)
 - [Introducción a la supervisión](https://docs.google.com/document/d/1r_E6Hj4F-38dy5tDbxfTBW2XaU8sSRaf9qtC-VuLDIw)
-
-###Programación funcional
-
-- [Patrones funcionales](https://docs.google.com/document/d/13XFlFnOaOtMq7I_r4xRUqLP-sasnEJA0-zSEh7utMQ0)
-
 
 ## Artículos, Blogs y Presentaciones
 
@@ -82,6 +76,8 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - [Message Systems In Programming, Callbacks, Events Pub Sub, Promises and Streams](http://jessewarden.com/2014/10/message-systems-in-programming-callbacks-events-pub-sub-promises-and-streams.html)
 - [Concurrencia vs Paralelismo, en Haskell](https://wiki.haskell.org/Parallelism)
+- [Actors, STM and Locks in Pictures](http://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html)
+
 
 ###Actores
 
@@ -112,7 +108,13 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - Deprecating The Observer Pattern
 - Functional Reactive Programming from First Principles
-- Functional Reactive Programming, Continued
+- Functional Reactive Programming, Continuedhttp://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+
+
+## Programación Funcional
+
+* [Functors, Aplicatives and Monads](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+
 
 ### Event Loop
 
