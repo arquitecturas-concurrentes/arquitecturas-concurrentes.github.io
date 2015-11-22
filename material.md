@@ -69,6 +69,7 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - [Diccionario Erlang/OTP](https://docs.google.com/document/d/1QG6Aq9AnSuHH5L3r0F063LgYAAP8ts5wSTEmXd8d3r0)
 - [Introducción a la supervisión](https://docs.google.com/document/d/1r_E6Hj4F-38dy5tDbxfTBW2XaU8sSRaf9qtC-VuLDIw)
+- [Heartbeat y CAP] (https://docs.google.com/document/d/1TUpfMoClJ3eEhDcQVRpz5W4tIKlliOOWxLzReT6kmxU/pub)
 
 ## Artículos, Blogs y Presentaciones
 
