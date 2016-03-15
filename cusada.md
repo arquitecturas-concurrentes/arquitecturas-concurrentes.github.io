@@ -7,7 +7,7 @@ permalink: /cursada/
 ## Planificación 
 
 <iframe style="width: 100%; height:600px" 
-  src="https://docs.google.com/spreadsheets/d/1upxvH_s0avodmFg4XOOvnsUP6UZ5lUza38crtxvjKfM/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+  src="https://docs.google.com/spreadsheets/d/1upxvH_s0avodmFg4XOOvnsUP6UZ5lUza38crtxvjKfM/pubhtml"></iframe>
 
 <iframe style="width: 100%; height:600px" 
   src="https://calendar.google.com/calendar/embed?src=7sfenv26k047alg5eg4qnndr6g%40group.calendar.google.com&ctz=America/Argentina/Buenos_Aires"  frameborder="0" scrolling="no"></iframe>
