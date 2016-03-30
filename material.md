@@ -66,7 +66,7 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 - [Diccionario Erlang/OTP](https://docs.google.com/document/d/1QG6Aq9AnSuHH5L3r0F063LgYAAP8ts5wSTEmXd8d3r0)
 - [Introducción a la supervisión](https://docs.google.com/document/d/1r_E6Hj4F-38dy5tDbxfTBW2XaU8sSRaf9qtC-VuLDIw)
-- [Heartbeat y CAP] (https://docs.google.com/document/d/1TUpfMoClJ3eEhDcQVRpz5W4tIKlliOOWxLzReT6kmxU/pub)
+- [Heartbeat y CAP](https://docs.google.com/document/d/1TUpfMoClJ3eEhDcQVRpz5W4tIKlliOOWxLzReT6kmxU/pub)
 
 ## Artículos, Blogs y Presentaciones
 
@@ -97,21 +97,23 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 - [Value, Identity and State (Presentación)](http://www.infoq.com/presentations/Value-Identity-State-Rich-Hickey#anch48593)
 - [Values and Change - Clojure's approach to Identity and State.](http://clojure.org/state)
 - [Haskell's STM](http://research.microsoft.com/en-us/um/people/simonpj/papers/stm/beautiful.pdf)
+- [Haskell's STM (Capitulo de Real World Haskell)](http://book.realworldhaskell.org/read/software-transactional-memory.html)
 
-### Streams & Futures
+### Programación Reactiva: Streams & Futures
+
 
 - [The Missing Guide To Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [Deprecating The Observer Pattern](http://infoscience.epfl.ch/record/176887/files/DeprecatingObservers2012.pdf)
 
-### Programación Reactiva
+### Programación Reactiva: FRP
 
-- Deprecating The Observer Pattern
-- Functional Reactive Programming from First Principles
-- Functional Reactive Programming, Continuedhttp://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+- [Functional Reactive Programming from First Principles](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/frp-1st.pdf)
+- Functional Reactive Programming, Continued
 
 
 ## Programación Funcional
 
-* [Functors, Aplicatives and Monads](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+* [Functors, Aplicatives and Monads, in pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
 
 ### Event Loop
