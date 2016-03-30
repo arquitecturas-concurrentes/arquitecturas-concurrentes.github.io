@@ -8,7 +8,7 @@ permalink: /material/
 
 Acá vas encontrar los apuntes que estamos construyendo, la bilbliografía oficial, y artículos varios sobre los temas de la materia. 
 
-##Programa
+## Programa
 
 - [Presentación de la materia](https://docs.google.com/presentation/d/1XwWPNhZJwLWWFcU2vh3i6XbYIkhZvBiLS-zszmBQIkY)
 - [Programa de la materia](https://drive.google.com/file/d/0B5xDW-XvRuFubXQydUF5LXdhdnc/view?usp=sharing)
@@ -50,19 +50,19 @@ Estos son los apuntes que estamos elaborando. Su construcción es iterativa e in
 
 No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas materias ni aquí ni allá de las que <del>robar</del> tomar ideas, así que tenemos que construir todo desde cero.
 
-###Generalidades
+### Generalidades
 
 - [Nociones Fundamentales](https://docs.google.com/document/d/1F8zdJpJlNJHBVq9PEoqAT_CFnTB6blXYhNkXpS0GXiE)
 
-###Javascript
+### Javascript
 
 - [Rápido tutorial de Javascript](https://medium.com/@flbulgarelli/javascript-al-grano-4415991a8271)
 
-###Programación Reactiva
+### Programación Reactiva
 
 - [¿Qué es programación reactiva?](https://docs.google.com/document/d/1hD3jVG211KiKaM-fBlzRov3naGwf12oSjR2dg8JM51w)
 
-###Actores
+### Actores
 
 - [Diccionario Erlang/OTP](https://docs.google.com/document/d/1QG6Aq9AnSuHH5L3r0F063LgYAAP8ts5wSTEmXd8d3r0)
 - [Introducción a la supervisión](https://docs.google.com/document/d/1r_E6Hj4F-38dy5tDbxfTBW2XaU8sSRaf9qtC-VuLDIw)
