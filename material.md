@@ -70,14 +70,14 @@ No es que nos querramos mandar la parte (¿o sí?) pero no encontramos muchas ma
 
 ## Artículos, Blogs y Presentaciones
 
-###General
+### General
 
 - [Message Systems In Programming, Callbacks, Events Pub Sub, Promises and Streams](http://jessewarden.com/2014/10/message-systems-in-programming-callbacks-events-pub-sub-promises-and-streams.html)
 - [Concurrencia vs Paralelismo, en Haskell](https://wiki.haskell.org/Parallelism)
 - [Actors, STM and Locks in Pictures](http://adit.io/posts/2013-05-15-Locks,-Actors,-And-STM-In-Pictures.html)
 
 
-###Actores
+### Actores
 
 - Avoiding Single Process Bottlenecks By Using Ets Concurrency
   * [Video](http://vimeo.com/90733229)
