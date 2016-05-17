@@ -4,7 +4,7 @@ title: Tecnologías
 permalink: /tecnologias/
 ---
 
-#Tecnologías
+# Tecnologías
 
 Si estuviste leyendo las otras páginas habrás visto que mencionamos bastantes tecnologías diferentes, y eso quizás te parezca interesante, pero quizas te aterre un poco. Así que te contamos un poco mejor cómo viene la mano: 
 
