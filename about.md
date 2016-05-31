@@ -4,18 +4,106 @@ title: Quienes Somos
 permalink: /about/
 ---
 
-- Franco Bulgarelli
+## Docentes
 
-Soy docente de Diseño de Sistemas y Paradigmas de Programación en UTN, y de Objetos 3 en UNQ. También trabajo como ingeniero de software freelance, y soy cofundador de [Mumuki Project](https://www.linkedin.com/company/mumuki-project). 
+<style>
+    .team_member {
+        width: 100%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
 
-![Franco Bulgarelli](http://services.nexodyne.com/email/icon/4yiUCx15Ta5ZOFsT/qSVmr40%3D/R01haWw%3D/0/image.png)
+    .team_member .left {
+        float: left;
+        width: 15%;
+        padding-left: 0px;
+    }
 
-- Ernesto Bossi
+    .team_member .left img {
+        display: block;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
 
-Ayudante de Técnicas Avanzadas de Programación y Sistemas Mainframes en UTN-FRBA. Programador trabajando en Deviget LLC.
-![Ernesto Bossi](http://services.nexodyne.com/email/icon/UqnEypL8%2B4hlHU.rrpg%3D/YGTShvk%3D/R01haWw%3D/0/image.png)
+    .team_member .right img {
 
-- Juan Edi
+    }
 
-También doy clases en Paradigmas de Programación en Exactas (UBA) y trabajo como programador en Manas.
-![Juan Edi](https://services.nexodyne.com/email/customicon/s3WPh9VovkrxsIkHZNo%3D/T4qkCNo%3D/777777/ffffff/000000/0/image.png)
+    .team_member .right {
+        float: right;
+        padding-right: 3px;
+        padding-left: 20px;
+        width: 85%;
+    }
+
+    .team_face {
+        margin-bottom: 10px;
+        width: 100px;
+    }
+
+    .description {
+        font-family: "Open Sans", Arial;
+        font-size: 12px;
+        text-align: left;
+    }
+
+</style>
+
+
+<div class='team'>
+
+    <div class='team_member'>
+        <div class="left">
+            <img src="/img/UserImage.png"
+                 class="img-circle team_face">
+        </div>
+        <div class="right">
+            <div class="description">
+                <h2>Franco Bulgarelli</h2>
+                <span><a href="mailto:fbulgarelli@gmail.com">fbulgarelli@gmail.com</a></span>
+                <br>
+                <span>Soy docente de Diseño de Sistemas y Paradigmas de Programación en UTN, y de Objetos 3 en UNQ. También trabajo como ingeniero de software freelance, y soy cofundador de [Mumuki Project](https://www.linkedin.com/company/mumuki-project).</span>
+            </div>
+        </div>
+
+    </div>
+    
+    <div style="clear:both"></div>
+
+    <div class='team_member'>
+        <div class="left">
+            <img src="https://en.gravatar.com/userimage/17179339/50e760920f19b70771924cfe73b17d26.jpg?size=200"
+                 class="img-circle team_face">
+        </div>
+        <div class="right">
+            <div class="description">
+                <h2>Ernesto Bossi</h2>
+                <span><a href="mailto:bossi.ernestog@gmail.com">bossi.ernestog@gmail.com</a></span>
+                <br>
+                <span>Ayudante de Técnicas Avanzadas de Programación y Sistemas Mainframes en UTN-FRBA. Programador trabajando en Deviget LLC.</span>
+            </div>
+        </div>
+
+    </div>
+
+    <div style="clear:both"></div>
+    
+        <div class='team_member'>
+        <div class="left">
+            <img src="/img/UserImage.png"
+                 class="img-circle team_face">
+        </div>
+        <div class="right">
+            <div class="description">
+                <h2>Juan Edi</h2>
+                <span><a href="mailto:jedi@dc.uba.ar">jedi@dc.uba.ar</a></span>
+                <br>
+                <span>También doy clases en Paradigmas de Programación en Exactas (UBA) y trabajo como programador en Manas.</span>
+            </div>
+        </div>
+
+    </div>
+    
+    <div style="clear:both"></div>
+
+</div>
