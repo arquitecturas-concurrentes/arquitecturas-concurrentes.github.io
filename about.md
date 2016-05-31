@@ -62,7 +62,7 @@ permalink: /about/
                 <h2>Franco Bulgarelli</h2>
                 <span><a href="mailto:fbulgarelli@gmail.com">fbulgarelli@gmail.com</a></span>
                 <br>
-                <span>Soy docente de Diseño de Sistemas y Paradigmas de Programación en UTN, y de Objetos 3 en UNQ. También trabajo como ingeniero de software freelance, y soy cofundador de [Mumuki Project](https://www.linkedin.com/company/mumuki-project).</span>
+                <span>Soy docente de Diseño de Sistemas y Paradigmas de Programación en UTN, y de Objetos 3 en UNQ. También trabajo como ingeniero de software freelance, y soy cofundador de  <a href="https://www.linkedin.com/company/mumuki-project">Mumuki Project</a>.</span>
             </div>
         </div>
 
