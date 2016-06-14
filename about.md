@@ -133,7 +133,7 @@ permalink: /about/
                 <h2>Matias Petrone</h2>
                 <span><a href="mailto:matias.petrone@gmail.com">matias.petrone@gmail.com</a></span>
                 <br>
-                <span>Aprendo de todo un poco trabajando en <a href="http://educatina.com">Educatina</a>.</span>
+                <span>Aprendo de todo un poco programando en <a href="http://educatina.com">Educatina</a>.</span>
             </div>
         </div>
     </div>
