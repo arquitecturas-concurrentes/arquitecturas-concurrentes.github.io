@@ -120,4 +120,21 @@ permalink: /about/
             </div>
         </div>
     </div>
+
+    <div style="clear:both"></div>
+
+    <div class='team_member'>
+        <div class="left">
+            <img src="https://avatars2.githubusercontent.com/u/7144280?v=3&s=460"
+                 class="img-circle team_face">
+        </div>
+        <div class="right">
+            <div class="description">
+                <h2>Matias Petrone</h2>
+                <span><a href="mailto:matias.petrone@gmail.com">matias.petrone@gmail.com</a></span>
+                <br>
+                <span>Aprendo de todo un poco trabajando en <a href="http://educatina.com">Educatina</a>.</span>
+            </div>
+        </div>
+    </div>
 </div>
