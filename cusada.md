@@ -29,10 +29,11 @@ hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se 
 
 ## Trabajos Prácticos
 
-* [Práctica 1 - Ayudantes Parte 1](https://docs.google.com/document/d/1j7agLiiWzoOAY3cmF2uevn8fvyrG0oDm0SzBkQru6A4/pub)
-* [Práctica 2 - Ayudantes Parte 2](https://docs.google.com/document/d/1kykd-abdpoySCCRq28lo4p5FmSvorxFveFXcqAQU0ig/edit)
-* [Práctica 3 - IRC](https://docs.google.com/document/d/1KiFR3stOFVJqpOnEU9NCCyhONzbkD8aBWRjRbnax_Us/edit?usp=sharing)
+* [Práctica 1 - Cuando Viene](https://github.com/arquitecturas-concurrentes/practica_cps_promises_cuando_viene)
+* [Práctica 2 - STM ](https://github.com/arquitecturas-concurrentes/iasc-lista-alumnos-practica-haskell)
+* [Práctica 3 - STM Reducida ](https://github.com/arquitecturas-concurrentes/iasc-stm-rehs)
+* [Práctica 4 - Image Finder](https://github.com/arquitecturas-concurrentes/iasc-elixir-image-finder)
 
 # Trabajo Práctico Cuatrimestral
 
-* [TP - Key Value Distribuido](https://docs.google.com/document/d/15PfQe50dUqsrg-ClQTf7x7dBaR_UMHSrUvXXqqJlmlY/edit?usp=sharing)
+* [TP - Load Balancer](https://docs.google.com/document/d/1hGKI62Sm0U0BmGuITR31SfEJEYz6LRKKzl7ptXFOrxA/pub)
