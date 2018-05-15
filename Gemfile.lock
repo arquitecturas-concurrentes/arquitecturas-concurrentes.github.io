@@ -93,11 +93,11 @@ GEM
       rb-inotify (>= 0.9)
     maruku (0.7.0)
     mercenary (0.3.5)
-    mini_portile (0.6.2)
+    mini_portile2 (2.3.0)
     minitest (5.8.3)
     net-dns (0.8.0)
-    nokogiri (1.6.6.3)
-      mini_portile (~> 0.6.0)
+    nokogiri (1.8.2)
+      mini_portile2 (~> 2.3.0)
     parslet (1.5.0)
       blankslate (~> 2.0)
     posix-spawn (0.3.11)
@@ -120,7 +120,7 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    yajl-ruby (1.2.1)
+    yajl-ruby (1.2.3)
 
 PLATFORMS
   ruby
@@ -131,4 +131,4 @@ DEPENDENCIES
   json
 
 BUNDLED WITH
-   1.10.6
+   1.16.1
