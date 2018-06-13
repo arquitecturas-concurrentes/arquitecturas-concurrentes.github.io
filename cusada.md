@@ -36,4 +36,5 @@ hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se 
 
 # Trabajo Práctico Cuatrimestral
 
-* [TP - Load Balancer](https://docs.google.com/document/d/1hGKI62Sm0U0BmGuITR31SfEJEYz6LRKKzl7ptXFOrxA/pub)
+* [TP 1C 2017 - Load Balancer](https://docs.google.com/document/d/1hGKI62Sm0U0BmGuITR31SfEJEYz6LRKKzl7ptXFOrxA/pub)
+* [TP 1C 2018 - Subastas Automáticas](https://docs.google.com/document/d/19LNOQ6UVRD1bX99NxAA7DfSlM4BvavbCQtwrhkj7U8c/)
