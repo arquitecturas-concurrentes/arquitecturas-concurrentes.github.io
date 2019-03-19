@@ -65,7 +65,6 @@ permalink: /about/
                 <span>Soy docente de Diseño de Sistemas y Paradigmas de Programación en UTN, y de Objetos 3 en UNQ. También trabajo como ingeniero de software freelance, y soy cofundador de  <a href="https://www.linkedin.com/company/mumuki-project">Mumuki Project</a>.</span>
             </div>
         </div>
-
     </div>
     
     <div style="clear:both"></div>
@@ -83,7 +82,40 @@ permalink: /about/
                 <span>Docente Adjunto de Técnicas Avanzadas de Programación y como ayudante en Sistemas Mainframes en UTN-FRBA. Programador trabajando en SVCSoft y de manera freelance.</span>
             </div>
         </div>
+    </div>
+    
+    <div style="clear:both"></div>
 
+    <div class='team_member'>
+        <div class="left">
+            <img src="/img/UserImage.png"
+                 class="img-circle team_face">
+        </div>
+        <div class="right">
+            <div class="description">
+                <h2>Erwin Debusschere</h2>
+                <span><a href="mailto:erwincdl@gmail.com">erwincdl@gmail.com</a></span>
+                <br>
+                <span></span>
+            </div>
+        </div>
+    </div>
+    
+    <div style="clear:both"></div>
+
+    <div class='team_member'>
+        <div class="left">
+            <img src="/img/UserImage.png"
+                 class="img-circle team_face">
+        </div>
+        <div class="right">
+            <div class="description">
+                <h2>Juan Manuel Fernandes dos Santos</h2>
+                <span><a href="mailto:juan9794@gmail.com">juan9794@gmail.com</a></span>
+                <br>
+                <span></span>
+            </div>
+        </div>
     </div>
 
 </div>
