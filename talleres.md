@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre nuestros Talleres
+title: Nuestros Talleres
 permalink: /talleres/
 ---
 
