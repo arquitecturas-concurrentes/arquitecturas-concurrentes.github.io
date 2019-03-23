@@ -1,7 +1,6 @@
 ---
 layout: guia
 description: Guia de Elixir
-permalink: /guias/elixir/
 ---
 
 # Como instalar Elixir
