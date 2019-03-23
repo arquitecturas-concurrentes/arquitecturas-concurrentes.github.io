@@ -65,7 +65,6 @@ permalink: /about/
                 <span>Soy docente de Diseño de Sistemas y Paradigmas de Programación en UTN, y de Objetos 3 en UNQ. También trabajo como ingeniero de software freelance, y soy cofundador de  <a href="https://www.linkedin.com/company/mumuki-project">Mumuki Project</a>.</span>
             </div>
         </div>
-
     </div>
     
     <div style="clear:both"></div>
@@ -80,61 +79,43 @@ permalink: /about/
                 <h2>Ernesto Bossi</h2>
                 <span><a href="mailto:bossi.ernestog@gmail.com">bossi.ernestog@gmail.com</a></span>
                 <br>
-                <span>Docente Adjunto de Técnicas Avanzadas de Programación y como ayudante en Sistemas Mainframes en UTN-FRBA. Programador trabajando en SVCSoft y como programador freelance.</span>
+                <span>Docente Adjunto de Técnicas Avanzadas de Programación y como ayudante en Sistemas Mainframes en UTN-FRBA. Programador trabajando en SVCSoft y de manera freelance.</span>
             </div>
         </div>
-
     </div>
-
-    <div style="clear:both"></div>
     
-        <div class='team_member'>
+    <div style="clear:both"></div>
+
+    <div class='team_member'>
         <div class="left">
             <img src="/img/UserImage.png"
                  class="img-circle team_face">
         </div>
         <div class="right">
             <div class="description">
-                <h2>Juan Edi</h2>
-                <span><a href="mailto:jedi@dc.uba.ar">jedi@dc.uba.ar</a></span>
+                <h2>Erwin Debusschere</h2>
+                <span><a href="mailto:erwincdl@gmail.com">erwincdl@gmail.com</a></span>
                 <br>
-                <span>También doy clases en Paradigmas de Programación en Exactas (UBA) y trabajo como programador en Manas.</span>
+                <span></span>
             </div>
         </div>
-
     </div>
     
     <div style="clear:both"></div>
 
     <div class='team_member'>
         <div class="left">
-            <img src="https://avatars2.githubusercontent.com/u/692077?v=3&s=460"
+            <img src="/img/UserImage.png"
                  class="img-circle team_face">
         </div>
         <div class="right">
             <div class="description">
-                <h2>Nicolás Santángelo</h2>
-                <span><a href="mailto:santangelonicolas@gmail.com">santangelonicolas@gmail.com</a></span>
+                <h2>Juan Manuel Fernandes dos Santos</h2>
+                <span><a href="mailto:juan9794@gmail.com">juan9794@gmail.com</a></span>
                 <br>
-                <span>Trabajo como programador en un startup y soy cofundador de  <a href="http://nubisen.com">Nubisen</a>.</span>
+                <span></span>
             </div>
         </div>
     </div>
 
-    <div style="clear:both"></div>
-
-    <div class='team_member'>
-        <div class="left">
-            <img src="https://avatars2.githubusercontent.com/u/7144280?v=3&s=460"
-                 class="img-circle team_face">
-        </div>
-        <div class="right">
-            <div class="description">
-                <h2>Matias Petrone</h2>
-                <span><a href="mailto:matias.petrone@gmail.com">matias.petrone@gmail.com</a></span>
-                <br>
-                <span>Aprendo de todo un poco programando en <a href="http://educatina.com">Educatina</a>.</span>
-            </div>
-        </div>
-    </div>
 </div>
