@@ -38,6 +38,7 @@ Acá vamos a ir subiendo los resúmenes (scripts) de clase en formato de blog:
 - [Guía de instalación y creación de un proyecto Node.js](/guias/node)
 - [Guía de instalación de Ruby + Rubymine en Linux](https://youtu.be/OyLoonEjfDY)
 - [Guía de instalación de Ruby con RBEnv](http://uqbar-wiki.org/index.php?title=Gu%C3%ADa_de_Instalaci%C3%B3n_de_Ruby#2._Instalar_RBENV)
+- [Guía de instalación de Elixir](/guias/elixir)
 
 ## Ejemplos
 
