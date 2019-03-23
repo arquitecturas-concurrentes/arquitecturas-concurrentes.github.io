@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: guia
 description: Guia de Node.js
 permalink: /guias/node/
 ---

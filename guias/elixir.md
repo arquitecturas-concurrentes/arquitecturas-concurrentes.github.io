@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: guia
 description: Guia de Elixir
 permalink: /guias/elixir/
 ---
