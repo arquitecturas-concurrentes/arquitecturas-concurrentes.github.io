@@ -14,3 +14,4 @@ gems: [jekyll-paginate, rouge]
 paginate: 5
 paginate_path: blog/page:num
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+plugins: ['jekyll-paginate', 'rouge']
