@@ -2,6 +2,7 @@
 layout: page
 title: Material
 permalink: /material/
+resource: true
 ---
 
 # Material

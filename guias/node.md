@@ -1,7 +1,7 @@
 ---
 layout: guia
-title: 
 description: Guia de Node.js
+resource: false
 ---
 
 ## Prerequisitos 

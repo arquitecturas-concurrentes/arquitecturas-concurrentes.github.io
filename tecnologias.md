@@ -2,6 +2,7 @@
 layout: page
 title: Tecnologías
 permalink: /tecnologias/
+resource: true
 ---
 
 # Tecnologías

@@ -1,7 +1,7 @@
 ---
 layout: guia
-title: 
 description: Guia de Elixir
+resource: false
 ---
 
 ## Como instalar Elixir

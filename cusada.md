@@ -2,6 +2,7 @@
 layout: page
 title: Cursada
 permalink: /cursada/
+resource: true
 ---
 
 ## Planificación 

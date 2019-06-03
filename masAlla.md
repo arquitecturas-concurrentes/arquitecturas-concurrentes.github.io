@@ -2,6 +2,7 @@
 layout: page
 title: Más Allá
 permalink: /masalla/
+resource: true
 ---
 
 Esta es una sección extra en la que se listarán temas que si bien no se dan directamente en la materia, son de interés como lectura adicional
