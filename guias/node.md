@@ -60,16 +60,16 @@ Node.JS en una máquina linux. Para usar NVM tenes que tener como requisito git 
 Una vez instalado git y curl ejecutar
 
 {% highlight bash %}
-curl https://raw.github.com/creationix/nvm/master/install.sh | sh
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 {% endhighlight %}
 
-Para probar que nvm funciona tipear nvm en la terminal. Si no se obtiene un 
+Para probar que nvm funciona tipear nvm en la terminal, puede que haya que reiniciar la consola o abrir una nueva. Si no se obtiene un 
 error del tipo *command not found*, entonces no se instalo correctamente NVM.
 
 Una vez instalado NVM hacer:
 
 {% highlight bash %}
-nvm install 0.10.38
+nvm install 12.0
 {% endhighlight %}
 
 Luego hacer un node -v y les debería mostrar esta misma versión que instalaron
