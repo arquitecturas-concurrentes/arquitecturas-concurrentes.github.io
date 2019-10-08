@@ -26,11 +26,12 @@ hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se 
 
 ## Trabajos Prácticos
 
+* [Práctica 0 - Puma en MRI y JVM](https://github.com/arquitecturas-concurrentes/iasc-practica-ruby)
 * [Práctica 1 - Cuando Viene](https://github.com/arquitecturas-concurrentes/practica_cps_promises_cuando_viene)
-* [Práctica 2 - STM ](https://github.com/arquitecturas-concurrentes/iasc-lista-alumnos-practica-haskell)
-* [Práctica 3 - STM Reducida ](https://github.com/arquitecturas-concurrentes/iasc-stm-rehs)
-* [Práctica 4 - Image Finder](https://github.com/arquitecturas-concurrentes/iasc-elixir-image-finder)
+* [Práctica 2 - STM ](https://github.com/arquitecturas-concurrentes/stm-2019)
+* [Práctica 2-bis - STM Ejercicio alternativo](https://github.com/arquitecturas-concurrentes/iasc-stm-practica)
+* [Práctica 3 - Image Finder](https://github.com/arquitecturas-concurrentes/iasc-elixir-image-finder)
 
 # Trabajo Práctico Cuatrimestral
 
-* [TP 1C 2019 - TBA]()
+* [TP 1C 2019 - Cola de Mensajes](https://docs.google.com/document/d/10sLWj1TZ65FxZNokcW0aZhUqXoBWwK3KBD9tC0Ja0xM/edit)
