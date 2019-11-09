@@ -7,13 +7,12 @@ author:     "Ernesto Bossi"
 header-img: "img/post-bg-01.jpg"
 ---
 
-## Este es un titulo
+# Este es un titulo
 
 Esto es un stub para futuros posts en caso que decidamos armar explicaciones propias.
 
-<blockquote>The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
 
-{% highlight elixir %}
+```elixir
 defmodule ListSearch do
 
   def search_pattern([], element_atom) do
@@ -61,4 +60,4 @@ defmodule EtsStore do
   end
 
 end
-{% endhighlight %}
+```

@@ -13,7 +13,7 @@ resource: true
 ## Alumnos
 
 <iframe style="width: 100%; height:600px"
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=965613095&single=true"></iframe>
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=867586681&single=true"></iframe>
 
 
 ## Grupo de Discusión
