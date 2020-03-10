@@ -7,13 +7,13 @@ resource: true
 
 ## Planificación 
 
-<iframe style="width: 100%; height:600px" 
+<iframe style="width: 900px; height:800px" 
   src="https://docs.google.com/spreadsheets/d/1upxvH_s0avodmFg4XOOvnsUP6UZ5lUza38crtxvjKfM/pubhtml"></iframe>
 
 ## Alumnos
 
-<iframe style="width: 100%; height:600px"
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=867586681&single=true"></iframe>
+<iframe style="width: 900px; height:630px"
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=1278203653&single=true"></iframe>
 
 
 ## Grupo de Discusión
@@ -34,4 +34,4 @@ hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se 
 
 # Trabajo Práctico Cuatrimestral
 
-* [TP 1C 2019 - Cola de Mensajes](https://docs.google.com/document/d/10sLWj1TZ65FxZNokcW0aZhUqXoBWwK3KBD9tC0Ja0xM/edit)
+* [TP 1C 2020 - TBA]()
