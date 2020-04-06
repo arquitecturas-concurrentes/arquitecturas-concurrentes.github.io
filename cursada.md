@@ -24,6 +24,24 @@ hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se 
 <a href="https://groups.google.com/forum/#!forum/arquitecturas-concurrentes/join">Unirse al grupo</a>
 
 
+## Discord
+
+Para las practicas y consultas menos formales, nos vamos a estar manejando por medio de nuestro canal de discord. El siguiente link es para sumarse a discord:
+
+<a href="https://discordapp.gg/Hwn4jtx">Grupo de Discord IASC</a>
+
+
+## Clases Remoto
+
+Durante el 1C 2020, las clases se daran de manera remota utilizando Google Meet, por lo que todos los martes estaremos en el siguiente room de Google Meet:
+
+<a href="https://meet.google.com/nsw-vpnc-pbf">Aula Virtual de IASC</a>
+
+tambien hay acceso por telefono mediante estos datos:
+
+- Tel: +1 631-621-6070 e introduce este PIN: 391 886 794#
+
+
 ## Trabajos Prácticos
 
 * [Práctica 0 - Puma en MRI y JVM](https://github.com/arquitecturas-concurrentes/iasc-practica-ruby)
