@@ -24,6 +24,14 @@ hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se 
 <a href="https://groups.google.com/forum/#!forum/arquitecturas-concurrentes/join">Unirse al grupo</a>
 
 
+## Discord
+
+Para las practicas y consultas menos formales, nos vamos a estar manejando por medio de nuestro canal de discord.
+
+## Clases Remoto
+
+Durante el 1C 2020, las clases se daran de manera remota utilizando Google Meet.
+
 ## Trabajos Prácticos
 
 * [Práctica 0 - Puma en MRI y JVM](https://github.com/arquitecturas-concurrentes/iasc-practica-ruby)
