@@ -33,14 +33,7 @@ Para las practicas y consultas menos formales, nos vamos a estar manejando por m
 
 ## Clases Remoto
 
-Durante el 1C 2020, las clases se daran de manera remota utilizando Google Meet, por lo que todos los martes estaremos en el siguiente room de Google Meet:
-
-<a href="https://meet.google.com/nsw-vpnc-pbf">Aula Virtual de IASC</a>
-
-tambien hay acceso por telefono mediante estos datos:
-
-- Tel: +1 631-621-6070 e introduce este PIN: 391 886 794#
-
+Durante el 1C 2020, las clases se daran de manera remota utilizando Google Meet.
 
 ## Trabajos Prácticos
 
