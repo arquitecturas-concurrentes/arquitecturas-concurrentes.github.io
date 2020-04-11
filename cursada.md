@@ -26,10 +26,7 @@ hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se 
 
 ## Discord
 
-Para las practicas y consultas menos formales, nos vamos a estar manejando por medio de nuestro canal de discord. El siguiente link es para sumarse a discord:
-
-<a href="https://discordapp.gg/Hwn4jtx">Grupo de Discord IASC</a>
-
+Para las practicas y consultas menos formales, nos vamos a estar manejando por medio de nuestro canal de discord.
 
 ## Clases Remoto
 
