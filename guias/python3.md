@@ -43,4 +43,4 @@ resource: false
 ```
 
 ### En vez de activar el entorno podemos utilizar el siguiente comando una vez que tenemos listo el virtualenv
-    python3 -m venv myenv
+    python -m venv myenv
