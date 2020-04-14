@@ -6,13 +6,13 @@ resource: false
 
 ## Prerequisitos
 
-Necesitamos tener instalado obivamente virtualbox en nuestra maquina, podemos bajarlo de [aqui](https://www.virtualbox.org/wiki/Downloads]).
+Necesitamos tener instalado obivamente virtualbox en nuestra maquina, podemos bajarlo de [aqui](https://www.virtualbox.org/wiki/Downloads).
 
 Tambien necesitamos una imagen de ubuntu/lubuntu. Recomendamos el ultimo, y podemos encontrar el mismo en el siguiente [link](https://lubuntu.net/downloads/) o bajar la version 19.10 directamente de [este link](http://cdimage.ubuntu.com/lubuntu/releases/19.10/release/lubuntu-19.10-desktop-amd64.iso)
 
 ## Seteo de la maquina virtual
 
-Una vez que tenemos virtual box instalado como la imagen de lubuntu ya descargada, hay que inicializar virtuabox y crear una nueva maquina virtual. 
+Una vez que tenemos virtual box instalado con la imagen de lubuntu ya descargada, hay que inicializar virtuabox y crear una nueva maquina virtual. 
 
 ![](/img/guias/vm0.jpg)
 
@@ -70,15 +70,9 @@ Para node pueden ver nuestra guia [aqui](/guias/node).
 
 ## Elixir
 
-Para node pueden ver nuestra guia de instalacion de Elixir [aqui](/guias/elixir).
+Para Elixir pueden ver nuestra guia de instalacion [aqui](/guias/elixir).
 
 ## Haskell
 
-solo hay que instalar haskell-platform para eso solo basta hacer un apt-get
-
-```bash
-sudo apt-get install haskell-platform
-```
-
-despues solo basta con instalar adicionalmente [stack](https://docs.haskellstack.org/en/stable/install_and_upgrade/)
+solo hay que instalar stack, pueden ver la guia de instalacion de stack [aqui](https://docs.haskellstack.org/en/stable/install_and_upgrade/)
 
