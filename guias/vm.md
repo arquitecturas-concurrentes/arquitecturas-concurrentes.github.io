@@ -4,6 +4,15 @@ description: Guia para armar una VM de Virtualbox
 resource: false
 ---
 
+## Alternativa
+
+#### Importante!
+
+Como alternativa tenemos una VM de lubuntu ya creada con todo lo que ncesitan instalado, que pueden ver de bajarlo de este link de [google drive](https://drive.google.com/file/d/1eDaY7klFbKgBannhyN0DWPqb9xrc3jI1/view?usp=drivesdk)
+
+MD5 del archivo descomprimido: `3edc02cbd922f73d0113fed7f162a6a3  Lubuntu.vhd`
+
+
 ## Prerequisitos
 
 Necesitamos tener instalado obivamente virtualbox en nuestra maquina, podemos bajarlo de [aqui](https://www.virtualbox.org/wiki/Downloads).
