@@ -4,6 +4,15 @@ description: Guia para armar una VM de Virtualbox
 resource: false
 ---
 
+## Alternativa
+
+#### Importante!
+
+Como alternativa tenemos una VM de lubuntu ya creada con todo lo que ncesitan instalado, que pueden ver de bajarlo de este link de [google drive](https://drive.google.com/file/d/1eDaY7klFbKgBannhyN0DWPqb9xrc3jI1/view?usp=drivesdk)
+
+MD5 del archivo descomprimido: `3edc02cbd922f73d0113fed7f162a6a3  Lubuntu.vhd`
+
+
 ## Prerequisitos
 
 Necesitamos tener instalado obivamente virtualbox en nuestra maquina, podemos bajarlo de [aqui](https://www.virtualbox.org/wiki/Downloads).
@@ -50,7 +59,7 @@ Despues de eso, pueden usar cualquier editor o IDE, eso queda sujeto a las prefe
 
 Para algunas practicas tal vez quieran utilizar un cliente para hacer requests como Insomnia, por ejemplo, en el que dejamos las instrucciones para instalarlo [aqui](https://support.insomnia.rest/article/23-installation#linux).
 
-## Ruby
+### Ruby
 
 Para ruby vamos a estar utilizando [rvm](https://rvm.io).
 
@@ -64,15 +73,18 @@ echo "source $HOME/.rvm/scripts/rvm" >> ~/.bash_profile
 
 aunque tambien pueden ver como instalarlo [aca](https://rvm.io/rvm/install)
 
-## Node
+### Node
 
 Para node pueden ver nuestra guia [aqui](/guias/node).
 
-## Elixir
+### Elixir
 
 Para Elixir pueden ver nuestra guia de instalacion [aqui](/guias/elixir).
 
-## Haskell
+### Haskell
 
 solo hay que instalar stack, pueden ver la guia de instalacion de stack [aqui](https://docs.haskellstack.org/en/stable/install_and_upgrade/)
 
+### Python
+
+Solo vamos a utilizar python 3 para la primera practica por lo que pueden instalar virtualenv mediante esta [guia](/guias/python3) o basta con tener python3 y pip3 instalado.
