@@ -50,6 +50,7 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
   font-weight: 800;
 }
 .navbar-custom .nav li a {
@@ -172,6 +173,7 @@ hr.small {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
     font-size: 80px;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
   }
 }
 .intro-header .post-heading h1 {
