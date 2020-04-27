@@ -23,13 +23,17 @@ Esta es la bibliografía oficial de la materia:
 - [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/)
 - Beatiful Architecture
 
-## Blog de Arquitecturas Concurrentes
+## Notas de Arquitecturas concurrentes 
+
+Ahora tenemos una pequeña pagina, donde vamos a subir exclusivamente el material de cada una de las clases para que puedan volver a repasar o estudiar los temas vistos en clase
+
+La pagina de las notas esta en el siguiente [link](https://arquitecturas-concurrentes.github.io/iasc-book/)
+
+## Blog de Arquitecturas Concurrentes (Deprecado)
 
 Acá vamos a ir subiendo los resúmenes (scripts) de clase en formato de blog:
 
-* [Episodio 1: El diablo está en los detalles](https://goo.gl/qEHWjX)
 * [Episodio 2: Algo llamado Concurrencia](https://goo.gl/oOelel)
-* [Episodio 3: Eventos](https://goo.gl/uRvYPU)
 * [Episodio 5: Sólo promesas](https://goo.gl/WmeqFz)
 * [Episodio 7: Estructuras Funcionales](https://goo.gl/SQGNi5)
 * [Episodio 8: Patrones funcionales](http://iasc.mumuki.io/guides/monadas)
