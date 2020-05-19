@@ -42,4 +42,4 @@ Durante el 1C 2020, las clases se daran de manera remota utilizando Google Meet.
 
 # Trabajo Práctico Cuatrimestral
 
-* [TP 1C 2020 - TBA]()
+* [TP 1C 2020 - TBA](https://docs.google.com/document/d/1Cov3NTewoZxla773FpiYFYet06mEf1usw7pzELXZZUA)
