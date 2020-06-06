@@ -36,7 +36,7 @@ Acá vamos a ir subiendo los resúmenes (scripts) de clase en formato de blog:
 * [Episodio 2: Algo llamado Concurrencia](https://goo.gl/oOelel)
 * [Episodio 5: Sólo promesas](https://goo.gl/WmeqFz)
 * [Episodio 7: Estructuras Funcionales](https://goo.gl/SQGNi5)
-* [Episodio 8: Patrones funcionales](http://iasc.mumuki.io/guides/monadas)
+* [Episodio 8: Patrones funcionales](https://mumuki.io/iasc/chapters/12-hilos-monadas-y-memoria-transaccional)
 
 ## Guias
 
