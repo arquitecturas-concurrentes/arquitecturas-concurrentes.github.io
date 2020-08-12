@@ -2,7 +2,7 @@
 layout: page
 title: Nuestros Talleres
 permalink: /talleres/
-resource: true
+resource: false
 ---
 
 ## 2C 2015
