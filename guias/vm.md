@@ -84,7 +84,3 @@ Para Elixir pueden ver nuestra guia de instalacion [aqui](/guias/elixir).
 ### Haskell
 
 solo hay que instalar stack, pueden ver la guia de instalacion de stack [aqui](https://docs.haskellstack.org/en/stable/install_and_upgrade/)
-
-### Python
-
-Solo vamos a utilizar python 3 para la primera practica por lo que pueden instalar virtualenv mediante esta [guia](/guias/python3) o basta con tener python3 y pip3 instalado.
