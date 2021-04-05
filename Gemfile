@@ -4,6 +4,6 @@ gem 'github-pages'
 gem 'jekyll-paginate'
 gem 'json'
 gem 'yajl-ruby', '~> 1.3.1'
-gem "nokogiri", ">= 1.10.9"
+gem "nokogiri", ">= 1.11.0"
 gem "rubyzip", ">= 1.3.0"
 gem "kramdown", ">= 2.3.0"

@@ -13,7 +13,7 @@ resource: true
 ## Alumnos
 
 <iframe style="width: 900px; height:630px"
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=568725339&single=true"></iframe>
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=1349953569&single=true"></iframe>
 
 
 ## Grupo de Discusión
@@ -42,4 +42,4 @@ Durante el 1C 2020, las clases se daran de manera remota utilizando Google Meet.
 
 # Trabajo Práctico Cuatrimestral
 
-* [TP 2C 2020 - Pigeon, Aplicación de mensajería](https://docs.google.com/document/d/1fpWsCJow_u72EGi8vyylG87L9yowCXtDHlzq9KI3G4w)
+* [TP 2C 2020 - TBA]()
