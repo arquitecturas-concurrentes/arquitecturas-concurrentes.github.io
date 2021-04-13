@@ -7,13 +7,15 @@ url: "http://arquitecturas-concurrentes.github.io/"
 github_username: "arquitecturas-concurrentes"
 
 # Build settings
-markdown: kramdown
-highlighter: rouge
 permalink: pretty
-gems: [jekyll-paginate, rouge]
 paginate: 5
 paginate_path: blog/page:num
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-plugins: ['jekyll-paginate', 'rouge']
+plugins: ['jekyll-paginate', 'rouge', 'kramdown']
+highlighter: rouge
+markdown: kramdown
 kramdown:
-    auto_ids: true
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
