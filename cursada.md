@@ -24,21 +24,21 @@ hacer preguntas o dudas sobre la cursada, generales de la materia, de lo que se 
 <a href="https://groups.google.com/forum/#!forum/arquitecturas-concurrentes/join">Unirse al grupo</a>
 
 
-## Discord
+## Discord ##
 
 Para las practicas y consultas menos formales, nos vamos a estar manejando por medio de nuestro canal de discord.
 
-## Clases Remoto
+## Clases Remoto ##
 
 Durante el 1C 2021, las clases se daran de manera remota utilizando Google Meet.
 
-## Trabajos Prácticos
+## Trabajos Prácticos ##
 
 * [Práctica 0 - Puma en MRI y JVM](https://github.com/arquitecturas-concurrentes/iasc-practica-ruby)
 * [Práctica 1 - Cuando Viene](https://github.com/arquitecturas-concurrentes/practica_cps_promises_cuando_viene)
 * [Práctica 2 - STM ](https://github.com/arquitecturas-concurrentes/iasc-stm-practica)
 * [Práctica 3 - Image Finder](https://github.com/arquitecturas-concurrentes/iasc-elixir-image-finder)
 
-# Trabajo Práctico Cuatrimestral
+# Trabajo Práctico Cuatrimestral #
 
 * [TP 2C 2020 - TBA]()
