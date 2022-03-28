@@ -94,25 +94,8 @@ resource: true
         </div>
         <div class="right">
             <div class="description">
-                <h2>Erwin Debusschere</h2>
-                <span><a href="mailto:erwincdl@gmail.com">erwincdl@gmail.com</a></span>
-                <br>
-                <span></span>
-            </div>
-        </div>
-    </div>
-    
-    <div style="clear:both"></div>
-
-    <div class='team_member'>
-        <div class="left">
-            <img src="/img/UserImage.png"
-                 class="img-circle team_face">
-        </div>
-        <div class="right">
-            <div class="description">
-                <h2>Juan Manuel Fernandes dos Santos</h2>
-                <span><a href="mailto:juan9794@gmail.com">juan9794@gmail.com</a></span>
+                <h2>Agustin David Nievas</h2>
+                <span><a href="mailto:"></a></span>
                 <br>
                 <span></span>
             </div>
