@@ -30,7 +30,7 @@ Para las practicas y consultas menos formales, nos vamos a estar manejando por m
 
 ## Clases Remoto ##
 
-Durante el 1C 2021, las clases se daran de manera remota utilizando Google Meet.
+Durante el 1C 2021, las clases se daran de manera remota utilizando Google Meet/Zoom.
 
 ## Trabajos Prácticos ##
 
