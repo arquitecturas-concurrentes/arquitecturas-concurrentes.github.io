@@ -406,6 +406,8 @@ h2 svg.octicon {
   padding-top: 10px;
 }
 
-h3 svg.octicon {
+h1 svg.octicon,
+h3 svg.octicon,
+h4 svg.octicon {
   padding-top: 15px;
 }
