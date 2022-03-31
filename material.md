@@ -21,7 +21,7 @@ Esta es la bibliografía oficial de la materia:
 
 - [Seven Concurrent Models in Seven Weeks](https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks)
 - [Learn You Some Erlang for great good!](http://learnyousomeerlang.com/)
-- Beatiful Architecture
+- [Beatiful Architecture](https://www.oreilly.com/library/view/beautiful-architecture/9780596155780/)
 
 ## Notas de Arquitecturas concurrentes 
 

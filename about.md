@@ -80,7 +80,7 @@ resource: true
                 <h2>Ernesto Bossi</h2>
                 <span><a href="mailto:bossi.ernestog@gmail.com">bossi.ernestog@gmail.com</a></span>
                 <br>
-                <span>Docente Adjunto de Técnicas Avanzadas de Programación y como ayudante en Sistemas Mainframes en UTN-FRBA. Programador trabajando en SVCSoft y de manera freelance.</span>
+                <span>Docente Adjunto de Sintaxis y Semantica de los Lenguajes y Técnicas Avanzadas de Programación en UTN-FRBA. Programador trabajando en SVCSoft y de manera freelance.</span>
             </div>
         </div>
     </div>
