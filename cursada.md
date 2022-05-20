@@ -41,4 +41,4 @@ Durante el 1C 2021, las clases se daran de manera remota utilizando Google Meet/
 
 # Trabajo Práctico Cuatrimestral #
 
-* [TP 2C 2021 - TBA]()
+* [TP 2C 2021 - Subastas](https://docs.google.com/document/d/1rOg2TUugXZgx23GhXBzUHakV3vDEkfaT2HLzVKIZ1Q0/edit?usp=sharing)
