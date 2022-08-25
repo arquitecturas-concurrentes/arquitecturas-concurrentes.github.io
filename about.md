@@ -104,9 +104,9 @@ resource: true
     
     <div style="clear:both"></div>
 
-   <div class='team_member'>
+    <div class='team_member'>
         <div class="left">
-            <img src="/img/UserImage.png"
+            <img src=""
                  class="img-circle team_face">
         </div>
         <div class="right">
