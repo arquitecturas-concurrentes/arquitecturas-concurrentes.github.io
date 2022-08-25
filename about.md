@@ -89,12 +89,29 @@ resource: true
 
     <div class='team_member'>
         <div class="left">
-            <img src="/img/UserImage.png"
+            <img src="https://avatars.githubusercontent.com/u/1671855?v=4"
                  class="img-circle team_face">
         </div>
         <div class="right">
             <div class="description">
                 <h2>Agustin David Nievas</h2>
+                <span><a href="mailto:AgustinDavidNievas90@gmail.com"></a></span>
+                <br>
+                <span></span>
+            </div>
+        </div>
+    </div>
+    
+    <div style="clear:both"></div>
+
+   <div class='team_member'>
+        <div class="left">
+            <img src="/img/UserImage.png"
+                 class="img-circle team_face">
+        </div>
+        <div class="right">
+            <div class="description">
+                <h2>Sofia Audisio</h2>
                 <span><a href="mailto:"></a></span>
                 <br>
                 <span></span>
