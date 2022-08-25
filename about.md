@@ -52,21 +52,6 @@ resource: true
 
 
 <div class='team'>
-
-    <div class='team_member'>
-        <div class="left">
-            <img src="/img/UserImage.png"
-                 class="img-circle team_face">
-        </div>
-        <div class="right">
-            <div class="description">
-                <h2>Franco Bulgarelli</h2>
-                <span><a href="mailto:fbulgarelli@gmail.com">fbulgarelli@gmail.com</a></span>
-                <br>
-                <span>Soy docente de Diseño de Sistemas y Paradigmas de Programación en UTN, y de Objetos 3 en UNQ. También trabajo como ingeniero de software freelance, y soy cofundador de  <a href="https://www.linkedin.com/company/mumuki-project">Mumuki Project</a>.</span>
-            </div>
-        </div>
-    </div>
     
     <div style="clear:both"></div>
 
@@ -78,7 +63,7 @@ resource: true
         <div class="right">
             <div class="description">
                 <h2>Ernesto Bossi</h2>
-                <span><a href="mailto:bossi.ernestog@gmail.com">bossi.ernestog@gmail.com</a></span>
+                <span><a href="mailto:ebossicarranza@frba.utn.edu.ar">ebossicarranza@frba.utn.edu.ar</a></span>
                 <br>
                 <span>Docente Adjunto de Sintaxis y Semantica de los Lenguajes y Técnicas Avanzadas de Programación en UTN-FRBA. Programador trabajando en SVCSoft y de manera freelance.</span>
             </div>
