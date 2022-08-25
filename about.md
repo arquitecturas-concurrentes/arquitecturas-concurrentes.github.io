@@ -97,7 +97,7 @@ resource: true
                 <h2>Agustin David Nievas</h2>
                 <span><a href="mailto:AgustinDavidNievas90@gmail.com"></a></span>
                 <br>
-                <span></span>
+                <span>  </span>
             </div>
         </div>
     </div>
