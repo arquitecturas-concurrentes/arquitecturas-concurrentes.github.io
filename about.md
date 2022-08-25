@@ -119,4 +119,6 @@ resource: true
         </div>
     </div>
 
+    <div style="clear:both"></div>
+    
 </div>
