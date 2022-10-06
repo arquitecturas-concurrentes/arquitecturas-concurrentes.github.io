@@ -41,4 +41,5 @@ Durante el 1C 2021, las clases se daran de manera remota utilizando Google Meet/
 
 # Trabajo Práctico Cuatrimestral #
 
-* [TBA]()
+
+* [TP 2C 2022 - IASC Notes](https://docs.google.com/document/d/1Oy7tNtCV3-BzthtaMwHOMLoghpMZj5JcvUuSoc4xyr0/edit?usp=sharing)
