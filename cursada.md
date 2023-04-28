@@ -42,4 +42,4 @@ Durante el 1C 2021, las clases se daran de manera remota utilizando Google Meet/
 # Trabajo Práctico Cuatrimestral #
 
 
-* [TP 1C 2023 - TBD](
+* [TP 1C 2023 - TBD]()
