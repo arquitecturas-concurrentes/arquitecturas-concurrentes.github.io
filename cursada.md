@@ -37,7 +37,8 @@ Durante el 1C 2021, las clases se daran de manera remota utilizando Google Meet/
 * [Práctica 0 - Puma en MRI y JVM](https://github.com/arquitecturas-concurrentes/iasc-practica-ruby)
 * [Práctica 1 - Cuando Viene](https://github.com/arquitecturas-concurrentes/practica_cps_promises_cuando_viene)
 * [Práctica 2 - Image Finder](https://github.com/arquitecturas-concurrentes/iasc-elixir-image-finder)
-* [Práctica 3 - STM ](https://github.com/arquitecturas-concurrentes/iasc-stm-practica)
+* [Práctica 3 - URL Shortener ](https://github.com/arquitecturas-concurrentes/iasc-elixir-url-shortener)
+* [Práctica 4 (Bonus) - STM ](https://github.com/arquitecturas-concurrentes/iasc-stm-practica)
 
 # Trabajo Práctico Cuatrimestral #
 
