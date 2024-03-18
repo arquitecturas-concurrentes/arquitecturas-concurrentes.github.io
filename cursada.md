@@ -8,12 +8,12 @@ resource: true
 ## Planificación 
 
 <iframe style="width: 900px; height:800px" 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLs6Xv6f8L8v4B-sq6pG26WKgmH7cf5ffqT8QJXkL81_u2CQhQaXLaZJ0S1wbZtf0Mw6-Ice8VSgue/pubhtml?gid=2043080806&single=true"></iframe>
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLs6Xv6f8L8v4B-sq6pG26WKgmH7cf5ffqT8QJXkL81_u2CQhQaXLaZJ0S1wbZtf0Mw6-Ice8VSgue/pubhtml?gid=1846437277&single=true"></iframe>
 
 ## Alumnos
 
 <iframe style="width: 900px; height:630px"
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=1923527301&single=true"></iframe>
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=642388645&single=true"></iframe>
 
 
 ## Grupo de Discusión
@@ -30,17 +30,23 @@ Para las practicas y consultas menos formales, nos vamos a estar manejando por m
 
 ## Clases Remoto ##
 
-Durante el 1C 2021, las clases se daran de manera remota utilizando Google Meet/Zoom.
+Durante el 1C 2024, parte de las clases se daran de manera remota utilizando Google Meet/Zoom. Otra parte de las clases se daran de manera prescencial en la sede Medrano.
+
+Para ver la modalidad de las clases, ver en la planificacion
 
 ## Trabajos Prácticos ##
 
 * [Práctica 0 - Puma en MRI y JVM](https://github.com/arquitecturas-concurrentes/iasc-practica-ruby)
 * [Práctica 1 - Cuando Viene](https://github.com/arquitecturas-concurrentes/practica_cps_promises_cuando_viene)
 * [Práctica 2 - Image Finder](https://github.com/arquitecturas-concurrentes/iasc-elixir-image-finder)
-* [Práctica 3 - URL Shortener ](https://github.com/arquitecturas-concurrentes/iasc-elixir-url-shortener)
+* [Práctica 3 - URL Shortener ](https://github.com/arquitecturas-concurrentes/
+iasc-elixir-url-shortener)
+
+## Trabajos Practicos Opcionales ##
+
 * [Práctica 4 (Bonus) - STM ](https://github.com/arquitecturas-concurrentes/iasc-stm-practica)
 
 # Trabajo Práctico Cuatrimestral #
 
 
-* [TP 2C 2023 - Pigeon](https://docs.google.com/document/d/1Xi7IBMvUEhLJviAoUyeK8m3Z0jtQ-sVSolWsBokZjqU/edit?usp=sharing)
+* [TP 1C 2024 - TBA]()
