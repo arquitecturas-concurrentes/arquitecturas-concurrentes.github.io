@@ -8,12 +8,12 @@ resource: true
 ## Planificación 
 
 <iframe style="width: 900px; height:800px" 
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLs6Xv6f8L8v4B-sq6pG26WKgmH7cf5ffqT8QJXkL81_u2CQhQaXLaZJ0S1wbZtf0Mw6-Ice8VSgue/pubhtml?gid=1846437277&single=true"></iframe>
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=2093128189&single=true"></iframe>
 
 ## Alumnos
 
 <iframe style="width: 900px; height:630px"
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyNWDTH0_RrnMRjKwuN5XTewYI_SzHmGS_IKUBx4TRfkJlnZUD_CbQv4a7fEvisgcx0GGVVC3BeMKR/pubhtml?gid=642388645&single=true"></iframe>
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLs6Xv6f8L8v4B-sq6pG26WKgmH7cf5ffqT8QJXkL81_u2CQhQaXLaZJ0S1wbZtf0Mw6-Ice8VSgue/pubhtml?gid=108936837&single=true"></iframe>
 
 
 ## Grupo de Discusión
