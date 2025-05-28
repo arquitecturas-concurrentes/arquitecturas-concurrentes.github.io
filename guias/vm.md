@@ -10,7 +10,8 @@ resource: false
 
 Como alternativa tenemos una VM de lubuntu ya creada con todo lo que ncesitan instalado, que pueden ver de bajarlo de este link de [google drive]( https://drive.google.com/file/d/12x7nF61p0TPcECeInSICKCzkQo1TOPB0/view?usp=sharing)
 
-MD5 del archivo descomprimido: `3edc02cbd922f73d0113fed7f162a6a3  Lubuntu.vhd`
+MD5 del archivo comprimido: `80a4dc5596ed1c5e95c9ea6bdb973e53  discoVm.zip`
+MD5 del archivo descomprimido: `74383d29b686c8bcc9f93b5180b1c9ea  Lubuntu.vhd`
 
 
 ## Prerequisitos
