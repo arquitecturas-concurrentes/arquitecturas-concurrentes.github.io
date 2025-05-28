@@ -8,7 +8,7 @@ resource: false
 
 #### Importante!
 
-Como alternativa tenemos una VM de lubuntu ya creada con todo lo que ncesitan instalado, que pueden ver de bajarlo de este link de [google drive](https://drive.google.com/file/d/1eDaY7klFbKgBannhyN0DWPqb9xrc3jI1/view?usp=drivesdk)
+Como alternativa tenemos una VM de lubuntu ya creada con todo lo que ncesitan instalado, que pueden ver de bajarlo de este link de [google drive]( https://drive.google.com/file/d/12x7nF61p0TPcECeInSICKCzkQo1TOPB0/view?usp=sharing)
 
 MD5 del archivo descomprimido: `3edc02cbd922f73d0113fed7f162a6a3  Lubuntu.vhd`
 
