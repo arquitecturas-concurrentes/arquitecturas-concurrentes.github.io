@@ -18,7 +18,7 @@ MD5 del archivo descomprimido: `74383d29b686c8bcc9f93b5180b1c9ea  Lubuntu.vhd`
 
 Necesitamos tener instalado obivamente virtualbox en nuestra maquina, podemos bajarlo de [aqui](https://www.virtualbox.org/wiki/Downloads).
 
-Tambien necesitamos una imagen de ubuntu/lubuntu. Recomendamos el ultimo, y podemos encontrar el mismo en el siguiente [link](https://lubuntu.net/downloads/) o bajar la version 19.10 directamente de [este link](http://cdimage.ubuntu.com/lubuntu/releases/19.10/release/lubuntu-19.10-desktop-amd64.iso)
+Tambien necesitamos una imagen de ubuntu/lubuntu. Recomendamos el ultimo, y podemos encontrar el mismo en el siguiente [link](https://lubuntu.me/downloads/) o bajar la version 19.10 directamente de [este link](https://cdimage.ubuntu.com/lubuntu/releases/25.04/release/lubuntu-25.04-desktop-amd64.iso)
 
 ## Seteo de la maquina virtual
 
