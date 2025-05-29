@@ -30,7 +30,7 @@ Para las practicas y consultas menos formales, nos vamos a estar manejando por m
 
 ## Clases Remoto ##
 
-Durante el 1C 2024, parte de las clases se daran de manera remota utilizando Google Meet/Zoom. Otra parte de las clases se daran de manera prescencial en la sede Medrano.
+Durante el 1C 2025, parte de las clases se daran de manera remota utilizando Google Meet/Zoom. Otra parte de las clases se daran de manera prescencial en la sede Medrano.
 
 Para ver la modalidad de las clases, ver en la planificacion
 
@@ -39,8 +39,7 @@ Para ver la modalidad de las clases, ver en la planificacion
 * [Práctica 0 - Puma en MRI y JVM](https://github.com/arquitecturas-concurrentes/iasc-practica-ruby)
 * [Práctica 1 - Cuando Viene](https://github.com/arquitecturas-concurrentes/practica_cps_promises_cuando_viene)
 * [Práctica 2 - Image Finder](https://github.com/arquitecturas-concurrentes/iasc-elixir-image-finder)
-* [Práctica 3 - URL Shortener ](https://github.com/arquitecturas-concurrentes/
-iasc-elixir-url-shortener)
+* [Práctica 3 - URL Shortener](https://github.com/arquitecturas-concurrentes/iasc-elixir-url-shortener)
 
 ## Trabajos Practicos Opcionales ##
 
