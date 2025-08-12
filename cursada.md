@@ -48,4 +48,4 @@ Para ver la modalidad de las clases, ver en la planificacion
 # Trabajo Práctico Cuatrimestral #
 
 
-* [TP 1C 2025 - Carga Rapida](https://docs.google.com/document/d/e/2PACX-1vSfsZMalBi7HfUBeVs-zBhx8UgxXYC0-q4qW9tLsiHODNT_Wv3YITG7loGNPQ1k_izbmA4LUicP1Tis/pub)
+* [TP 2C 2025 - TBA]()
