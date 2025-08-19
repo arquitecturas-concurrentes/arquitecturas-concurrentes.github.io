@@ -8,11 +8,12 @@ resource: false
 
 #### Importante!
 
-Como alternativa tenemos una VM de lubuntu ya creada con todo lo que ncesitan instalado, que pueden ver de bajarlo de este link de [google drive]( https://drive.google.com/file/d/12x7nF61p0TPcECeInSICKCzkQo1TOPB0/view?usp=sharing)
+Como alternativa tenemos una VM de debian 12 con xfce ya creada con todo lo que ncesitan instalado, que pueden ver de bajarlo de este link de [google drive](https://drive.google.com/file/d/1v_TAwH3vx1_PR_HfNyJqhGXrgleWvgsO/view?usp=sharing)
 
-MD5 del archivo comprimido: `80a4dc5596ed1c5e95c9ea6bdb973e53  discoVm.zip`
-MD5 del archivo descomprimido: `74383d29b686c8bcc9f93b5180b1c9ea  Lubuntu.vhd`
+MD5 del archivo comprimido: `6784dc643acffb985e6e0bd77f259965  iasc-25.zip`
+MD5 del archivo descomprimido: `e0b0332e8f2762b9c0c89c7ed0042a91  iasc-25.vdi`
 
+El login de la vm que tenemos es `iasc/iasc12`
 
 ## Prerequisitos
 
