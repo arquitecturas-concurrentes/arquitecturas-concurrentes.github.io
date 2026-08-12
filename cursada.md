@@ -48,4 +48,4 @@ Para ver la modalidad de las clases, ver en la planificacion
 # Trabajo Práctico Cuatrimestral #
 
 
-* [TP 2C 2025 - SatLink](https://docs.google.com/document/d/1vOvilSlZANuyVkkBjiObZoXW-bBMqs75EnWnrPPEEy8/edit?usp=sharing)
+* [TP 2C 2026 - TBA]()
