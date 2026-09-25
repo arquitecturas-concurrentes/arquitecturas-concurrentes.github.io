@@ -48,4 +48,4 @@ Para ver la modalidad de las clases, ver en la planificacion
 # Trabajo Práctico Cuatrimestral #
 
 
-* [TP 2C 2026 - TBA]()
+* [TP 2C 2026 - Levantar Vuelo](https://docs.google.com/document/d/1q60btPP8ly2DZL3jGqfnVAj7K5YQWQvRlGmd7fG5t1k/edit?usp=sharing)
